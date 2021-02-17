@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Vue.js**
 
-- ⚒️ Currently working for @playlegend
+- ⚒️ Currently working for [Minecraft Legend](https://playlegend.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
