@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maik</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
-- 🌱 I’m currently experimenting around with [Kotlin(https://kotlinlang.org/) and [Minestom](https://minestom.net/)
+- 🌱 I’m currently experimenting around with [Kotlin](https://kotlinlang.org/) and [Minestom](https://minestom.net/)
 
 - ⚒️ **Currently not working for anyone**
 
