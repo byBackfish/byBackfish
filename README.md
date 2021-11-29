@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maik</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
-- 🌱 I’m currently learning **React and Vue.js**
+- 🌱 I’m currently experimenting around with @kotlin and @minestom
 
-- ⚒️ Currently working for [Minecraft Legend](https://playlegend.net)
+- ⚒️ **Currently not working for anyone**
+
+- ✌️ Worked for [Minecraft Legend](https://playlegend.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
