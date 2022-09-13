@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maik</h1>
+<h1 align="center">Hi 👋, I'm Maiki</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
 - 🌱 I’m currently experimenting around with [Minestom](https://minestom.net/)
