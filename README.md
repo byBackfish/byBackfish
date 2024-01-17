@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bybackfish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bybackfish" height="30" width="40" /></a>
-<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord-name" height="30" width="40" />byBackfish#9375</a>
+<a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord-name" height="30" width="40" />@bybackfish</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
