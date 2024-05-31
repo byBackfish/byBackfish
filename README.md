@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maik</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
-- 🌱 I’m currently experimenting around with [Minestom](https://minestom.net/)
+- 🌱 I’m currently experimenting around with [Gleam](https://gleam.run/)
 
 - ⚒️ **Currently working on [TarvoSQL](https://github.com/tarvosql) (Coming late 2024)**
 
