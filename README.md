@@ -9,6 +9,8 @@
 
 - 🧑‍💻 [Kotlin](https://kotlinlang.org/) enthusiast
 
+- 📕 Studying Software Engineering @ [Fontys University of Applied Sciences](https://www.fontys.nl/en/Home.htm)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bybackfish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bybackfish" height="30" width="40" /></a>
