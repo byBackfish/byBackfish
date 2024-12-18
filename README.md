@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently experimenting around with [Gleam](https://gleam.run/)
 
-- ⚒️ **Currently working on [TarvoSQL](https://github.com/tarvosql) (Coming late 2024)**
+- ⚒️ **Currently working on [TarvoSQL](https://github.com/tarvosql)**
 
 - 🏝️ Worked for [PlayLegend](https://playlegend.net/)
 
