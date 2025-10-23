@@ -82,6 +82,16 @@
                 "manaSteal": 40,
                 "healthRegenRaw": 20
             }
+        },
+        "Electro Mage's Boots": {
+            "Main": {
+                "walkSpeed": 10, 
+                "thunderDamage": 15,
+                "raw1stSpellCost": 35,
+                "raw2ndSpellCost": 5,
+                "raw3rdSpellCost": 35,
+                
+            }
         }
     }
 }
