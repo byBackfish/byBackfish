@@ -89,8 +89,7 @@
                 "thunderDamage": 15,
                 "raw1stSpellCost": 35,
                 "raw2ndSpellCost": 5,
-                "raw3rdSpellCost": 35,
-                
+                "raw3rdSpellCost": 35
             }
         }
     }
