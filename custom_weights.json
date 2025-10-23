@@ -75,6 +75,13 @@
                 "waterDamage": 12.5,
                 "thunderDamage": 12.5
             }
+        },
+        "Bete Noire": {
+            "Main": {
+                "spellDamage": 40,
+                "manaSteal": 40,
+                "healthRegenRaw": 20
+            }
         }
     }
 }
