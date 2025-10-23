@@ -1,0 +1,80 @@
+{
+    "weights": {
+        "Time Rift": {
+            "Main": {
+                "manaSteal": 40,
+                "manaRegen": 25,
+                "spellDamage": 35
+            }
+        },
+        "Delirium": {
+            "Main": {
+                "walkSpeed": 50,
+                "earthDamage": 25,
+                "thunderDamage": 25
+            },
+            "Earth": {
+                "walkSpeed": 50,
+                "earthDamage": 45,
+                "thunderDamage": 5
+            },
+            "Thunder": {
+                "walkSpeed": 50,
+                "thunderDamage": 45,
+                "earthDamage": 5
+            }
+        },
+        "Keratoconus": {
+            "Main": {
+                "manaRegen": 25,
+                "airDamage": 25,
+                "raw4thSpellCost": 50
+            }
+        },
+        "Divzer": {
+            "Better Main": {
+                "manaSteal": 30.0,
+                "lifeSteal": 20.0,
+                "rawSpellDamage": 50.0
+            }
+        },
+        "Nirvana": {
+            "Trickshade": {
+                "spellDamage": 35.0,
+                "manaRegen": 45.0,
+                "rawHealth": 20.0
+            }
+        },
+        "Anamnesis": {
+            "Main": {
+                "manaRegen": 49.5,
+                "waterDamage": 49.5,
+                "reflection": 1
+            }
+        },
+        "Brainwash": {
+            "Main": {
+                "spellDamage": 30,
+                "rawSpellDamage": 30,
+                "manaRegen": 30,
+                "manaSteal": 10
+            }
+        },
+        "Sagittarius": {
+            "Main": {
+                "rawSpellDamage": 35,
+                "airDamage": 45,
+                "walkSpeed": 20
+            }
+        },
+        "Stratosphere": {
+            "Main": {
+                "jumpHeight": 25.0,
+                "manaRegen": 25.0,
+                "spellDamage": 25.0,
+                "waterDamage": 12.5,
+                "thunderDamage": 12.5
+            }
+        }
+    }
+}
