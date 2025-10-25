@@ -91,6 +91,13 @@
                 "raw2ndSpellCost": 5,
                 "raw3rdSpellCost": 35
             }
+        },
+        "Nychthemeron": {
+            "Main": {
+                "manaSteal": 50.0,
+                "thunderDamage": 25,
+                "spellDamage": 25
+            }
         }
     }
 }
